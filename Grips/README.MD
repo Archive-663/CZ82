@@ -33,6 +33,8 @@ A collection of Grips to improve the handling for the CZ-82 and CZ-83 (w/o squar
 - For the Standard Grips best detail to strength ratio, print at a 45 degree angle. Details facing the bed. Check the printOrientationFile.3mf for a visual example. Additionally, you want to sink your print -0.5mm on the Z-axis so your printer has a foot to print the grips. Make sure you have good adhesion.
 
 ### Post Processing:
+- Drill out the M2 and M3.5 holes.
+- Using an M2 x 14mm screw, press fit the M2 nuts on the Right NATO Grip.
 - Not much post processing is needed if you're printing with ABS besides support removal and clean up on parts of the texture. 
 - If you're printing with PA6-GF you need to anneal the print. My method is 30 minutes to 1 hour in 70C water using a sous vide to keep temp. If you want to dye to Black or Forest Green add RIT Dye to the water to anneal and dye. There will be a fair bit of clean up on whiskers as PA6-GF, for me, was stringy. Use a sharp razor blade or exacto to clean up any errant hairs. 
 
