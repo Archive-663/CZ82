@@ -1,5 +1,7 @@
 # Lot no. 008 | Grips, Holsters, and Speedloader for the CZ82
 
+![samplePhoto001](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/GMP01538.jpg)
+
 ### In this repository:
 - NATO compatible rail grips
 - Standard grips
