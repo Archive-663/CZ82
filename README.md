@@ -3,11 +3,11 @@
 ![samplePhoto001](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/GMP01538.jpg)
 
 ### In this repository:
-- NATO compatible rail grips
-- Standard grips
-- Slim grips
-- Holsters for each setup
-- Speedloader/unloader
+- [CZ-82 Grips](https://github.com/Archive-663/CZ82/tree/main/Grips)
+- CZ-82 Holsters
+- CZ-82 Speedloader/unloader
+- CZ-82 Reverse Engineered Frame & Magazine Assembly in STEP
+- Small Collection of compact weapon lights
 
 ### What you'll need:
 - 2x m2 x 14mm hex cap screw
