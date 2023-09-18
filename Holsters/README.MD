@@ -13,6 +13,10 @@ A collection of holsters for the CZ-82 and CZ-83 (w/o square trigger guard)
 - Ambidextrous belt mount
 - 15mm bushing spacing for most claw attachments
 
+### What you'll need:
+- 2x 3/8 holster bushings w/hardware
+- 1x belt loop w/hardware
+
 ### Printing suggestion:
 - ABS filament would be the best balance in ease of printing and durability. Not as resistant to solvents as PETG but better impact resistance and elongation before breakage. Better heat and UV resistance than PLA.
 - Follow the printOrientationFile.3mf for print orientation. If importing to CURA you can simply import the models and then slice with your settings. In PrusaSlicer it does not carry the information over well from CURA.
