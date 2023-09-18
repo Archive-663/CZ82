@@ -18,7 +18,7 @@
 - m3.5 drill bit
 
 ### Printing help:
-I'd recommend P6-GF from Polymaker under PolyMide line for the NATO grips. I'm okay with ABS as well as they held up okay during the range test.
+I'd recommend PA6-GF from Polymaker under PolyMide line for the NATO grips. I'm okay with ABS as well as they held up okay during the range test.
 
 ### Post Processings:
 There's not much to do is printed correctly, but if you want to dye the Grey PA6-GF you can dye into darker colors with RIT Dye. I chose black but I believe you can get a dark green using a green dye. 
