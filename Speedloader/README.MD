@@ -1,6 +1,6 @@
 # CZ-82 9x18mm Speedloader/unloader
 
-![CZ-82 Speedloader](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/GMP01551.jpg)
+![CZ-82 Speedloader](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/GMP01553.jpg)
 
 An optimized speedloader and unloader for CZ-82 & CZ-83 magazines
 
