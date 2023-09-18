@@ -22,7 +22,10 @@ A collection of holsters for the CZ-82 and CZ-83 (w/o square trigger guard)
 - Follow the printOrientationFile.3mf for print orientation. If importing to CURA you can simply import the models and then slice with your settings. In PrusaSlicer it does not carry the information over well from CURA.
 
 ### Post Processing:
-- You will need to <a href='https://www.cnckitchen.com/blog/testing-the-strength-of-3d-prints-re-melted-in-salt' target='_blank'>salt re-flow</a> your prints for maximum strength. Either that or simply weld the layers with a soldering iron where your mounting points are. You will have to drill out holes to fit your mounting hardware and your cant angle. 
+- You will need to <a href='https://www.cnckitchen.com/blog/testing-the-strength-of-3d-prints-re-melted-in-salt' target='_blank'>salt re-flow</a> your prints for maximum strength. Either that or simply weld the layers with a soldering iron where your mounting points are. You will have to drill out holes to fit your mounting hardware and your cant angle.
+
+### Additional Notes:
+If you want a "Kydex" style version, you can use the included STEP files for the holsters to create your "buck" for vacuum forming the holster. What you'll need to do is subtract the holster from a rectangle in CAD, split the subtracted body, add breather channels and holes at corners, cut or print your buck, and then vacuum form your preferred thermoplastic sheet.
 
 ### Help support Archive 663 with a dontation or monthly sub
 
