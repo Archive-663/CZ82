@@ -23,14 +23,16 @@ A collection of Grips to improve the handling for the CZ-82 and CZ-83 (w/o squar
 - M3.5 Drill Bit
 
 ### Printing suggestion:
-- PA6-GF filament would be the best balance in ease of printing and durability. Second choice would be ABS for it's ease of printing, relatively good detail, and strength. Do not use PETG or any other brittle/prone to shatter on impact filament.
+- FOR NATO GRIPS: PA6-GF filament would be the best balance in ease of printing and durability. Second choice would be ABS for it's ease of printing, relatively good detail, and strength. Do not use PETG or any other brittle/prone to shatter on impact filament.
+- FOR Standard Grips: ABS was perfectly fine for me. While the grips still have to deal with the impact shock from the recoil it's felt less.
+- No resin printing; too britle. 
 - Follow the printOrientationFile.3mf for print orientation. If importing to CURA you can simply import the models and then slice with your settings. In PrusaSlicer it does not carry the information over well from CURA.
 - For NATO Grips best detail to strength ratio, print at a -135 degree angle. Details facing the bed. Essentially upsidedown at a 45 degree angle. Check the printOrientationFile.3mf for a visual example. Additionally, you want to sink your print -1.5mm on the Z-axis so your printer has a foot to print the grips. Make sure you have good adhesion.
 - For the Standard Grips best detail to strength ratio, print at a 45 degree angle. Details facing the bed. Check the printOrientationFile.3mf for a visual example. Additionally, you want to sink your print -0.5mm on the Z-axis so your printer has a foot to print the grips. Make sure you have good adhesion.
 
 ### Post Processing:
-- Not much post processing is needed if you're printing with ABS.
-- If you're printing with PA6-GF you need to anneal the print. My method is 30 minutes to 1 hour in 70C water using a sous vide to keep temp. If you want to dye to Black or Forest Green add RIT Dye to the water to anneal and dye. 
+- Not much post processing is needed if you're printing with ABS besides support removal and clean up on parts of the texture. 
+- If you're printing with PA6-GF you need to anneal the print. My method is 30 minutes to 1 hour in 70C water using a sous vide to keep temp. If you want to dye to Black or Forest Green add RIT Dye to the water to anneal and dye. There will be a fair bit of clean up on whiskers as PA6-GF, for me, was stringy. Use a sharp razor blade or exacto to clean up any errant hairs. 
 
 ### Help support Archive 663 with a dontation or monthly sub
 
