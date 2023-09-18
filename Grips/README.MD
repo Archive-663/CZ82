@@ -10,7 +10,9 @@ A collection of Grips to improve the handling for the CZ-82 and CZ-83 (w/o squar
 
 ### Features:
 - NATO compliant rail (compatible with 1913 rail attachments as well)
-- Aggressive checkering
+- Aggressive checkering on 34mm grips
+- CZ Retro style 28mm grips
+- Simplified ethnic 'Elephant's Foot Pattern' style 28mm grips
 - Standard 34mm grips and Slim 28mm grips
 
 ### What you'll need:
