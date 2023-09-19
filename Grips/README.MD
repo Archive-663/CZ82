@@ -38,6 +38,9 @@ A collection of Grips to improve the handling for the CZ-82 and CZ-83 (w/o squar
 - Not much post processing is needed if you're printing with ABS besides support removal and clean up on parts of the texture. 
 - If you're printing with PA6-GF you need to anneal the print. My method is 30 minutes to 1 hour in 70C water using a sous vide to keep temp. If you want to dye to Black or Forest Green add RIT Dye to the water to anneal and dye. There will be a fair bit of clean up on whiskers as PA6-GF, for me, was stringy. Use a sharp razor blade or exacto to clean up any errant hairs. 
 
+### Designing your own grips:
+I've included a base Left sided grip. It has the correct internal geometries while leaving the exterior untouched. It's a good starting point if you want to custom fit a grip style to fit your hand. If you want to modify the NATO grips included the import the STEP files to what ever CAD system you're using. 
+
 ### Help support Archive 663 with a dontation or monthly sub
 
 <a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
