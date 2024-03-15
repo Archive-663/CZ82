@@ -1,6 +1,6 @@
 # Lot no. 008 | Grips, Holsters, and Speedloader for the CZ82
 
-![samplePhoto001](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/GMP01538.jpg)
+![samplePhoto001](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/cz%20(1).jpg)
 
 ### In this repository:
 - [CZ-82 Grips](https://github.com/Archive-663/CZ82/tree/main/Grips)
