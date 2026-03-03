@@ -5,6 +5,7 @@
 ![CZ-82 Speedloader](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/cz%20(8).jpg)
 ![CZ-82 Speedloader](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/cz%20(9).jpg)
 ![CZ-82 Speedloader](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/cz%20(10).jpg)
+![CZ-82 Speedloader](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/1%20(1).jpg)
 
 A collection of Grips to improve the handling for the CZ-82 and CZ-83 (w/o square trigger guard)
 
@@ -12,6 +13,7 @@ A collection of Grips to improve the handling for the CZ-82 and CZ-83 (w/o squar
 - NATO compliant rail (compatible with 1913 rail attachments as well)
 - Aggressive checkering on 34mm grips
 - CZ Retro style 28mm grips
+- Cowboy Bebop inspired "wrap around" grips
 - Simplified ethnic 'Elephant's Foot Pattern' style 28mm grips
 - Standard 34mm grips and Slim 28mm grips
 
