@@ -1,6 +1,6 @@
 # CZ-82 Plus 2 Magazine Extension
 
-![CZ-82 Speedloader](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/cz%20(13).jpg)
+![CZ-82 Speedloader](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/1%20(1).jpg)
 
 An experiamental +2 round magazine extension.
 
