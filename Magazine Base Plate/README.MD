@@ -2,7 +2,7 @@
 
 ![CZ-82 Speedloader](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/1%20(1).jpg)
 
-An working +2 round magazine extension.
+A working +2 round magazine extension.
 
 ### Features:
 - +2 Magazine capacity
