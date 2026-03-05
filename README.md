@@ -5,6 +5,7 @@
 ### In this repository:
 - [CZ-82 Grips](https://github.com/Archive-663/CZ82/tree/main/Grips)
 - [CZ-82 Holsters](https://github.com/Archive-663/CZ82/tree/main/Holsters)
+- [CZ-82 +2 Magazine Extension](https://github.com/Archive-663/CZ82/tree/main/Magazine%20Base%20Plate)
 - [CZ-82 Speedloader/unloader](https://github.com/Archive-663/CZ82/tree/main/Speedloader)
 - [CZ-82 Reverse Engineered Frame & Magazine Assembly in STEP](https://github.com/Archive-663/CZ82/tree/main/baseCZ82_Body)
 - [Small Collection of compact weapon lights](https://github.com/Archive-663/CZ82/tree/main/Lights)
