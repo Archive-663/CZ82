@@ -10,11 +10,17 @@ An working +2 round magazine extension.
 ### What you'll need:
 - A file or clean sharp edge
 
+### Assembly:
+Remove the factory spring retention plate and slide the last spring loop into the printed spring retention plate. Compress the spring and spring retention plate. Slide the +2 magazine base plate on. Allow the spring to decompress, push down on the spring retention plate if it does not drop down.
+
+You want to slide the +2 magazine base plate on without the spring and spring retention plate to ensure that the kerf allows the +2 base plate to slide on without too much issue. It's printed and designed tight to allow for the most material on the upper lip of the kerf.
+
 ### Printing suggestion:
 - PA6-CF filament offers the best performance.
 
 ### Post Processing:
-- Clean any stray filament. 
+- Clean any stray filament.
+- If possible run a .75mm file through the rim of the +2 magazine base plate to ready it for sliding onto the magazine.
 
 ### Help support Archive 663 with a dontation or monthly sub
 
