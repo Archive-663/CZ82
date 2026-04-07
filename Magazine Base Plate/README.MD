@@ -7,9 +7,12 @@ A working +2 round magazine extension.
 
 ### Features:
 - +2 Magazine capacity
+- Compatible with Type 1 (Round) and Type 2 (Square) Main Spring Plug
 
 ### What you'll need:
-- A file or clean sharp edge
+- A set of diamond micro files (0.25mm, 0.5mm, 0.75mm)
+or 
+- A clean sharp edge
 
 ### Assembly:
 Remove the factory spring retention plate and slide the last spring loop into the printed spring retention plate. Compress the spring and spring retention plate. Slide the +2 magazine base plate on. Allow the spring to decompress, push down on the spring retention plate if it does not drop down.
@@ -18,6 +21,8 @@ You want to slide the +2 magazine base plate on without the spring and spring re
 
 ### Printing suggestion:
 - PA6-CF filament offers the best performance.
+- If you have the round cylindrical (Type 1) Main Spring Plug print "..._springRetainer_+2.stl"
+- If you have the square (Type 2) Main Spring Plug pring "..._springRetainerType2_+2.stl"
 
 ### Post Processing:
 - Clean any stray filament.
