@@ -14,7 +14,7 @@ A collection of Grips to improve the handling for the CZ-82 and CZ-83 (w/o squar
 - NATO compliant rail (compatible with 1913 rail attachments as well)
 - Aggressive checkering on 34mm grips
 - CZ Retro style 28mm grips
-- Cowboy Bebop inspired "wrap around" grips
+- Cowboy Bebop inspired "wrap around" grips (grab the squareTG for the square trigger guard) (compatible with the TLR7 X-sub and O-light PL-Mini 2)
 - Simplified ethnic 'Elephant's Foot Pattern' style 28mm grips
 - Standard 34mm grips and Slim 28mm grips
 
